@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+GBViewTool::Renderer.copyright 'Hyrum Garaycochea', 'All rights reserved'
+```
 
 ## Development
 
